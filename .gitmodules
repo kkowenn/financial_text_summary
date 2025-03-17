@@ -1,3 +1,1 @@
-[submodule "model"]
-	path = model
 	url = https://github.com/kkowenn/financial_text_summary
