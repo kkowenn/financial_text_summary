@@ -1,0 +1,7 @@
+---
+title: FinBrief
+python_version: 3.8.19
+sdk: streamlit  
+app_file: app.py
+pinned: false
+license: mit
