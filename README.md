@@ -1,4 +1,4 @@
-# FinBrief NLP term project:
+# FinBrief🐖: Assumption university's NLP term project:
 
 Dataset: https://huggingface.co/datasets/kritsadaK/EDGAR-CORPUS-Financial-Summarization
 
